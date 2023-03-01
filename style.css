@@ -1,0 +1,42 @@
+body {
+ background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/tp238-background-08.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=868534c5494233cc9ddb0dedb74b5fc8");
+ background-color: #;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+}
+
+
+h1 {
+color:#050505;
+font-family: sans-serif;
+background-color: #E7F36C;
+text-align: center;
+font-family: "Helvetica Neue", sans-serif;
+font-style: italic;
+font-weight: 800;
+font-size: 40px;
+height: 30px;
+width: 400px;
+background-image: url("iceland1.jpg");
+margin: 10px auto;
+padding-top: 10px;
+padding-bottom: 30px;
+font-stretch: semi-expanded;
+}
+
+p {
+font-family: "Helvetica Neue", sans-serif;
+text-align: center;
+background-color: rgb(253,104,78);
+color: white;
+margin: 25px auto;
+margin-top: 0px;
+padding: 25px;
+width: 900px;
+  
+  }
+  
+canvas {
+  display: block;
+}
